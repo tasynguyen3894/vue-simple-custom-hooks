@@ -1,24 +1,38 @@
-# custom-hook
+# 10 Vue simple custom hooks
 
-## Project setup
+This is basic Vue project with 10 simple custom hooks
+
+## Setup
+
+Install package
+
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+Start project
+
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Custom hooks
 
-### Lints and fixes files
-```
-yarn lint
-```
+In this project, I've created 10 simple custom hooks:
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- useCopyToClipboard.js
+- useNetworkStatus.js
+- useOnClickOutside.js
+- useScrollToBottom.js
+- useStorage.js
+- useTheme.js
+- useTimer.js
+- useViewport.js
+- useVisibility.js
+- useWindowResize.js
+
+In `src/components/Main.vue`, I've added all of them in there. You can start app and try with it.
+
+## About me
+
+My name is **Sang**, just a lazy web developer in Vietnam. I hope custom hooks I created will useful with you.
