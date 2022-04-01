@@ -36,3 +36,7 @@ In `src/components/Main.vue`, I've added all of them in there. You can start app
 ## About me
 
 My name is **Sang**, just a lazy web developer in Vietnam. I hope custom hooks I created will useful with you.
+
+## License
+
+MIT. See [LICENSE](LICENSE) for more details.
