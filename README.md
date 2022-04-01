@@ -39,4 +39,4 @@ My name is **Sang**, just a lazy web developer in Vietnam. I hope custom hooks I
 
 ## License
 
-MIT. See [LICENSE](LICENSE) for more details.
+MIT. See [LICENSE](LICENSE.txt) for more details.
